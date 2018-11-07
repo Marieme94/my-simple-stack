@@ -8,6 +8,7 @@ public  class SimpleStackImp implements SimpleStack{
      *
      */
     private Stack<Object> stack;
+    private Item item;
 
     public SimpleStackImp() {
         stack = new Stack<Object>();
@@ -22,8 +23,6 @@ public  class SimpleStackImp implements SimpleStack{
     public int getSize() {
         return stack.size();
     }
-
-
 
 
     public void push(Item item) {
