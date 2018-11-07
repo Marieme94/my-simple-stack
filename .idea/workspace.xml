@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="23ac24e1-9ad3-48d1-9cf1-92869961896f" name="my-simple-stack-1 Exigence 1" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/deqo/mkei/mysimplestack/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deqo/mkei/mysimplestack/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/deqo/mkei/mysimplestack/SimpleStackImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deqo/mkei/mysimplestack/SimpleStackImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/deqo/mkei/mysimplestack/SimpleStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/deqo/mkei/mysimplestack/SimpleStackImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/deqo/mkei/mysimplestack/SimpleStackImpTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/deqo/mkei/mysimplestack/SimpleStackImpTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/findbugsXml.xml" beforeDir="false" />
     </list>
     <list id="1972b55f-b8d9-48df-a679-bd5ae89f3a6b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,25 +30,25 @@
         <counts>
           <entry key="class" value="5" />
           <entry key="gitignore" value="25" />
-          <entry key="java" value="613" />
-          <entry key="xml" value="44" />
+          <entry key="java" value="698" />
+          <entry key="xml" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="5" />
-          <entry key="JAVA" value="613" />
+          <entry key="JAVA" value="698" />
           <entry key="PLAIN_TEXT" value="25" />
-          <entry key="XML" value="44" />
+          <entry key="XML" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="12" />
+          <entry key="JAVA" value="14" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="XML" value="4" />
+          <entry key="XML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -61,15 +60,24 @@
           <entry key="class" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="12" />
+          <entry key="java" value="14" />
           <entry key="lst" value="1" />
-          <entry key="xml" value="4" />
+          <entry key="xml" value="5" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="65" column="25" lean-forward="true" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/deqo/mkei/mysimplestack/SimpleStack.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -83,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/deqo/mkei/mysimplestack/Item.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding>
                 <element signature="e#111#112#0" expanded="true" />
                 <element signature="e#142#143#0" expanded="true" />
@@ -96,11 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/deqo/mkei/mysimplestack/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
+            <state relative-caret-position="345">
+              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
               <folding>
                 <element signature="e#171#179#0" expanded="true" />
               </folding>
@@ -116,6 +124,27 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/deqo/mkei/mysimplestack/SimpleStackImpTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1110">
+              <caret line="74" column="35" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/deqo/mkei/mysimplestack/AppTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -145,11 +174,11 @@
         <option value="$PROJECT_DIR$/src/main/java/deqo/mkei/mysimplestack/.gitignore" />
         <option value="$PROJECT_DIR$/src/test/java/deqo/mkei/mysimplestack/ItemTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/deqo/mkei/mysimplestack/Item.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/deqo/mkei/mysimplestack/SimpleStackImpTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/deqo/mkei/mysimplestack/SimpleStackImp.java" />
         <option value="$PROJECT_DIR$/src/main/java/deqo/mkei/mysimplestack/SimpleStack.java" />
         <option value="$PROJECT_DIR$/src/main/java/deqo/mkei/mysimplestack/App.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/deqo/mkei/mysimplestack/SimpleStackImpTest.java" />
       </list>
     </option>
   </component>
@@ -204,14 +233,20 @@
               <item name="my-simple-stack" type="b2602c69:ProjectViewProjectNode" />
               <item name="ad-hoc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-simple-stack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ad-hoc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="my-simple-stack" type="b2602c69:ProjectViewProjectNode" />
               <item name="ad-hoc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="mysimplestack" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -227,7 +262,7 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541621103829" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541622039143" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
   </component>
@@ -251,7 +286,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="JUnit.SimpleStackImpTest">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="deqo.mkei.mysimplestack.App" />
       <module name="ad-hoc" />
@@ -357,8 +392,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App" />
         <item itemvalue="JUnit.SimpleStackImpTest" />
+        <item itemvalue="Application.App" />
         <item itemvalue="JUnit.SimpleStackImpTest.getSize" />
       </list>
     </recent_temporary>
@@ -390,7 +425,7 @@
       <option name="project" value="my-simple-stack" />
       <option name="type" value="BUG" />
       <updated>1541620582720</updated>
-      <workItem from="1541620583467" duration="440000" />
+      <workItem from="1541620583467" duration="1393000" />
     </task>
     <servers>
       <GitHub url="https://github.com">
@@ -401,9 +436,6 @@
     </servers>
   </component>
   <component name="TestHistory">
-    <history-entry file="SimpleStackImpTest - 2018.11.04 at 23h 31m 22s.xml">
-      <configuration name="SimpleStackImpTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SimpleStackImpTest_getSize - 2018.11.04 at 23h 31m 43s.xml">
       <configuration name="SimpleStackImpTest.getSize" configurationId="JUnit" />
     </history-entry>
@@ -428,9 +460,15 @@
     <history-entry file="SimpleStackImpTest - 2018.11.04 at 23h 38m 20s.xml">
       <configuration name="SimpleStackImpTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SimpleStackImpTest - 2018.11.07 at 21h 16m 49s.xml">
+      <configuration name="SimpleStackImpTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleStackImpTest - 2018.11.07 at 21h 20m 41s.xml">
+      <configuration name="SimpleStackImpTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11355000" />
+    <option name="totallyTimeSpent" value="12308000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -444,7 +482,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25538972" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -455,7 +492,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4997236" weight="0.33054394" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4997236" visible="true" weight="0.33054394" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -464,7 +501,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3294979" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002764" side_tool="true" weight="0.32985386" />
-      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.3002092" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3002092" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -516,35 +553,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/deqo/mkei/mysimplestack/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/deqo/mkei/mysimplestack/ItemTest.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="58" column="14" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/deqo/mkei/mysimplestack/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/deqo/mkei/mysimplestack/SimpleStackImpTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -565,21 +578,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/deqo/mkei/mysimplestack/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/deqo/mkei/mysimplestack/SimpleStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -597,12 +595,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/deqo/mkei/mysimplestack/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/deqo/mkei/mysimplestack/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
+        <state relative-caret-position="345">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
           <folding>
             <element signature="e#171#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="65" column="25" lean-forward="true" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/deqo/mkei/mysimplestack/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/deqo/mkei/mysimplestack/SimpleStackImpTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="74" column="35" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
